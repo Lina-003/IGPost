@@ -17,7 +17,7 @@ class MyPost extends HTMLElement {
     this.attachShadow({ mode: 'open' });
     this.like = './src/imagenes/megusta.png';
     this.profile = './src/imagenes/perfil.png';
-    this.post = './src/imagenes/post.jpeg';
+    this.post = './src/imagenes/post.jpg';
     this.comment = './src/imagenes/comen.png';
     this.send = './src/imagenes/enviar.png';
   }
